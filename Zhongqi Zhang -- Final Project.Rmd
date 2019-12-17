@@ -13,6 +13,7 @@ library(DataComputing)
 # load my data set
 setwd("~/Downloads")
 car = read.table("car_data.csv",sep = ",",header = T)
+car
 ```
 
 ## Research Question
